@@ -1,5 +1,5 @@
-git config --global user.email "vmware@foelling.net"
-git config --global user.name "Marcus Andreas Fölling"
+& 'C:\Program Files (x86)\Git\bin\git.exe' config --global user.email "vmware@foelling.net"
+& 'C:\Program Files (x86)\Git\bin\git.exe' config --global user.name "Marcus Andreas Fölling"
 
 & 'C:\Program Files (x86)\Git\bin\git.exe' remote add origin https://github.com/MarcusFoelling/VMware-Training.git
 & 'C:\Program Files (x86)\Git\bin\git.exe' branch -M main
